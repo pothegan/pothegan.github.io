@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pothegan.github.io/sitemap
+Sitemap: https://pothegan.github.io/app/sitemap
+Sitemap: https://pothegan.github.io/assets/sitemap
+Sitemap: https://pothegan.github.io/css/sitemap
+Sitemap: https://pothegan.github.io/includes/sitemap
+Sitemap: https://pothegan.github.io/item/sitemap
+Sitemap: https://pothegan.github.io/src/sitemap
